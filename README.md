@@ -1,4 +1,4 @@
-# Basic EC2 Workshop
+# Basic EC2 Workshop for Awesome People
 
 ## Preparation
 
