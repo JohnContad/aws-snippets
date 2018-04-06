@@ -10,7 +10,7 @@ Create stuff:
 
 ```
 aws cloudformation create-stack --region ap-southeast-2 --stack-name BANANASTACK --template-body file://banana.yaml \
---parameters banana-params.json 
+--parameters file://banana-params.json 
 ```
 
 Delete stuff:
